@@ -1,0 +1,4 @@
+Name: Insert **_[REVIEW: ]_**
+Description: Insert **_[REVIEW: ]_** at the cursor position.
+Binding: insertReviewAddin
+Interactive: false

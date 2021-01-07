@@ -1,0 +1,10 @@
+Package: AmdReview
+Type: Package
+Title: Insert **_[REVIEW: ]_** at cursor position.
+Version: 0.1.0
+Author: Carlos Dávila Luelmo
+Maintainer: Carlos Dávila Luelmo <carlos.davila.luelmo@gmail.com>
+Description: Insert **_[REVIEW: ]_** text with one command.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
